@@ -1,13 +1,10 @@
-# 
+ #
 
-            Calculadora em C
+           Calculadora em C
 
-USEM A VONTADE!
-
-TOTALMENTE FEITA POR MIM, POR FAVOR SE USAR - LO EM SEU PERFIL DEIXE OS CRÉDITOS!
-
-CALCULADORA FEITA COM INTUITO PARA AJUDAR QUEM ESTA A PRECISAR!
+*este é um projeto antigo, totalmente inspirado no projeto de GuibaGold, algumas modificações foram feitas, usem este projeto para aprender algo sobre c.*
 
  # ───────────
 
-USE THE WILL! TOTALLY MADE BY ME, PLEASE IF YOU USE IT IN YOUR PROFILE LEAVE CREDITS! CALCULATOR MADE WITH INTUIT TO HELP THOSE WHO NEED IT!
+this is an old project, totally inspired by the GuibaGold project, some modifications were made, use this project to learn something about c.
+
